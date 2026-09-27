@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.token
+*.secret
+*.pem
+*.key
+*.p12
+*.db
+*.sqlite
+*.sqlite3
